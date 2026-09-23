@@ -1,0 +1,8 @@
+# SQLite database
+app.db
+
+# Python cache
+__pycache__/
+
+# Python virtual environment
+venv/
