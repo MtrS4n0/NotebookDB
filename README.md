@@ -1,7 +1,7 @@
 # Notes Application
  
 Old project: a command-line application for creating and managing user-specific notes.
- 
+<br>
 The application supports user registration and authentication. Each note is associated with a registered user.
  
 ## Features
